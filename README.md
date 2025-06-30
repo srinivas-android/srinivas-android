@@ -2,6 +2,7 @@
 
 ## 🏆 Certifications
 - 🎖️ [Kotlin Developer Badge – Google]((https://developers.google.com/profile/u/102467654882049679927)
+- 🎖️ Android Basics by Google (in progress)
 
 <!--
 **srinivas-android/srinivas-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
