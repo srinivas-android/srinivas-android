@@ -4,6 +4,11 @@
 - 🎖️ [Kotlin Developer Badge – Google]((https://developers.google.com/profile/u/102467654882049679927)
 - 🎖️ Android Basics by Google (in progress)
 
+## 🏅 Google Developer Badges
+
+- [Jetpack Compose Essentials Badge](https://developers.google.com/profile/badges/playlists/android/jetpack-compose-for-android-developers-1)  
+  Completed on [Aug 1, 2025]. Covered core Compose concepts like composables, state, layout, and modifiers.
+
 <!--
 **srinivas-android/srinivas-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
