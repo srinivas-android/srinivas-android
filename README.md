@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🏆 Certifications
-- 🎖️ [Kotlin Developer Badge – Google]((https://developers.google.com/profile/u/102467654882049679927)
+- 🎖️ [Kotlin Developer Badge – Google](https://developers.google.com/profile/u/102467654882049679927)
 - 🎖️ Android Basics by Google (in progress)
 
 ## 🏅 Google Developer Badges
