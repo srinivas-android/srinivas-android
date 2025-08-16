@@ -8,6 +8,9 @@
 
 - [Jetpack Compose Essentials Badge](https://developers.google.com/profile/badges/playlists/android/jetpack-compose-for-android-developers-1)  
   Completed on [Aug 1, 2025]. Covered core Compose concepts like composables, state, layout, and modifiers.
+- [Kotlin Fundamentals](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-2-pathway-1)  
+  Completed on [Aug 16, 2025]. Covered core Compose concepts like conditionals, nullability, oops, functions.
+  
 
 <!--
 **srinivas-android/srinivas-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
